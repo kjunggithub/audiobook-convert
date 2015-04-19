@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# brew install ffmpeg --with-fdk-aac
-
 # variables
 i=0
 green='\033[0;32m'
