@@ -15,6 +15,8 @@ git clone git@github.com:kjunggithub/audiobook-convert.git
 cd audiobook-convert
 ```
 
-2. To run the script
+2. Running the script.
+
+Move all `.mp3` files to be combined and converted into `input/` and from the root folder of the repository, run:
 
 ` sh convert.sh`
